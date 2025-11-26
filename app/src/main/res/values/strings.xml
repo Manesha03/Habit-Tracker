@@ -1,0 +1,117 @@
+<resources>
+<!-- App Name -->
+<string name="app_name">MOOFI</string>
+<!-- Navigation -->
+<string name="nav_today">Today</string>
+<string name="nav_habits">Habits</string>
+<string name="nav_mood">Mood</string>
+<string name="nav_calendar">Calendar</string>
+<string name="nav_statistics">Statistics</string>
+<string name="nav_settings">Settings</string>
+<!-- Habit Management -->
+<string name="add_habit">Add Habit</string>
+<string name="edit_habit">Edit Habit</string>
+<string name="delete_habit">Delete Habit</string>
+<string name="habit_name">Habit Name</string>
+<string name="habit_name_hint">e.g., Exercise, Drink Water</string>
+<string name="habit_description">Description</string>
+<string name="habit_description_hint">Optional description</string>
+<string name="reminder_time">Reminder Time</string>
+<string name="select_time">Select Time</string>
+<string name="category">Category</string>
+<string name="icon">Icon</string>
+<string name="periodic_task">Periodic Task</string>
+<string name="times_per_day">Times per day:</string>
+<string name="reminder_time_optional">Reminder Time (Optional)</string>
+<!-- Habit Categories -->
+<string name="category_health">Health</string>
+<string name="category_study">Study</string>
+<string name="category_work">Work</string>
+<string name="category_home">Home</string>
+<string name="category_other">Other</string>
+<string name="category_all">All</string>
+<!-- Mood Journal -->
+<string name="add_mood">Add Mood</string>
+<string name="mood_journal">Mood Journal</string>
+<string name="my_moods">My Moods</string>
+<string name="whats_your_mood">What\'s your mood?</string>
+<string name="whats_happening">What\'s happening?</string>
+<string name="add_a_note">Add a note</string>
+<string name="mood_note_hint">Write down any thoughts or details about your mood.</string>
+<string name="describe_your_mood">Describe your mood</string>
+<!-- Mood Levels -->
+<string name="mood_awful">Awful</string>
+<string name="mood_bad">Bad</string>
+<string name="mood_neutral">Neutral</string>
+<string name="mood_good">Good</string>
+<string name="mood_awesome">Awesome</string>
+<!-- Activity Tags -->
+<string name="tag_work">Work</string>
+<string name="tag_exercise">Exercise</string>
+<string name="tag_family">Family</string>
+<string name="tag_friends">Friends</string>
+<string name="tag_health">Health</string>
+<string name="tag_diet">Diet</string>
+<string name="tag_relationships">Relationships</string>
+<string name="tag_socializing">Socializing</string>
+<string name="tag_productivity">Productivity</string>
+<!-- Calendar -->
+<string name="calendar">Calendar</string>
+<string name="current_streak">Current streak: %d days</string>
+<string name="all_time_streaks">All time streaks</string>
+<!-- Statistics -->
+<string name="statistics">Statistics</string>
+<string name="overall_progress">Overall Progress</string>
+<string name="total_habits">Total Habits</string>
+<string name="completed_today">Completed Today</string>
+<string name="mood_entries">Mood Entries</string>
+<string name="current_streak_label">Current Streak</string>
+<string name="average_mood">Average Mood</string>
+<string name="completion_rate">Your completion rate</string>
+<string name="habits_tracking">Habits you\'re tracking</string>
+<string name="habits_completed_today">Habits completed today</string>
+<string name="total_mood_entries">Total mood entries</string>
+<string name="longest_current_streak">Longest current streak</string>
+<string name="your_overall_mood">Your overall mood</string>
+<!-- Common Actions -->
+<string name="save">Save</string>
+<string name="cancel">Cancel</string>
+<string name="delete">Delete</string>
+<string name="edit">Edit</string>
+<string name="ok">OK</string>
+<string name="yes">Yes</string>
+<string name="no">No</string>
+<string name="close">Close</string>
+<string name="back">Back</string>
+<!-- Messages -->
+<string name="habit_added">Habit added successfully!</string>
+<string name="habit_updated">Habit updated successfully!</string>
+<string name="habit_deleted">Habit deleted</string>
+<string name="mood_saved">Mood saved successfully!</string>
+<string name="mood_deleted">Mood deleted</string>
+<string name="habit_name_required">Habit name is required</string>
+<string name="error_occurred">An error occurred</string>
+<!-- Days of Week -->
+<string name="sunday">Sun</string>
+<string name="monday">Mon</string>
+<string name="tuesday">Tue</string>
+<string name="wednesday">Wed</string>
+<string name="thursday">Thu</string>
+<string name="friday">Fri</string>
+<string name="saturday">Sat</string>
+<!-- Notifications -->
+<string name="notification_channel_name">Hydration Reminders</string>
+<string name="notification_channel_description">Reminds you to drink water</string>
+<string name="time_to_hydrate">Time to Hydrate!</string>
+<string name="hydration_notification_text">Don\'t forget to drink water to stay healthy!</string>
+<!-- Progress -->
+<string name="progress">Progress</string>
+<string name="percentage">%d%%</string>
+<!-- Misc -->
+<string name="today">Today</string>
+<string name="habit">Habit</string>
+<string name="task">Task</string>
+<string name="edit_feature_coming_soon">Edit feature coming soon</string>
+<string name="shake_detected">Shake detected! Quick mood entry coming soon!</string>
+<string name="mood_saved_emoji">Mood saved! %s</string>
+</resources>
