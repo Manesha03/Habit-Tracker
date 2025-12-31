@@ -14,9 +14,7 @@ Develop consistent healthy habits and monitor emotional wellbeing. Automate remi
 - **Mood Journal**: Log moods with emojis, date/time, and view past entries in a list or calendar  
 - **Hydration Reminder**: Notifications to drink water at chosen intervals  
 - **Advanced Feature**:  
-  - Home-screen Widget showing today’s habit completion  
-  - (Optional: Sensor integration for steps or mood tracking)  
-  - Simple charts (MPAndroidChart) to track weekly mood trends  
+  - Home-screen Widget showing today’s habit completion    
 
 ---
 
